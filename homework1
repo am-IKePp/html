@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Магазин цветов</title>
+</head>
+<body>
+    <h1>Лучший магазин цветов</h1>
+    <h2>Самые красивые цветы в городе</h2>
+    <h3>Выбирай нас!</h3>
+    <ul>
+        <li>Быстрая доставка</li>
+        <li>Работаем круглосуточно</li>
+        <li>Порадуйте любимых</li>
+    </ul>
+    <p>От вас лишь требуются</p>
+
+    <ul>
+    <li>Пожелания</li>
+    <li>Деньги :)</li>
+    </ul>
+</body>
+</html>
